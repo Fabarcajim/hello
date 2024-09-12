@@ -13,3 +13,5 @@ Mi nombre es Hugo Fernando Abarca estudiante de tercer semestre de la maestría 
 _**José Luis Medrano**_ se agrega a tu repositorio como compañero de equipo. ¡Un gusto colaborar contigo! 
 
 Estamos añadiendo esta linea desde GitHub
+
+La sección de Referencias de este repositorio las encontrarás en [este link](actividades/04_Shell_basics.md).
