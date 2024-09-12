@@ -11,3 +11,5 @@ Mi nombre es Hugo Fernando Abarca estudiante de tercer semestre de la maestría 
 ![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_I/main/actividades/img/MCD_logo.png)
 
 _**José Luis Medrano**_ se agrega a tu repositorio como compañero de equipo. ¡Un gusto colaborar contigo! 
+
+Estamos añadiendo esta linea desde GitHub
