@@ -6,7 +6,8 @@ Mi nombre es Hugo Fernando Abarca estudiante de tercer semestre de la maestría 
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYno0cjd0dXl3ZWZweHZyd3hiMGk3b2M5N2Q4ZGd0empzbXVpcjg0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hryis7A55UXZNCUTNA/giphy.gif)
 
 *[Source: GIPHY](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYno0cjd0dXl3ZWZweHZyd3hiMGk3b2M5N2Q4ZGd0empzbXVpcjg0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hryis7A55UXZNCUTNA/giphy.gif)*
-
+### Original idea
+This is based in [ttimbers/hello](https://github.com/ttimbers/hello) repository. Thank you Tiffany!
 
 ![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_I/main/actividades/img/MCD_logo.png)
 
